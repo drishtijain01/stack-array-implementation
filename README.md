@@ -1,7 +1,10 @@
 # stack-array-implementation
 #include<stdio.h>
+
 int stack[100],choice,n,top,x,i;
+
 void push(void);
+
 void pop(void);
 void display(void);
 int main()
